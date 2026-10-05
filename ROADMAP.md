@@ -1,15 +1,13 @@
 # Roadmap
 
-Legend: [x] done, [ ] to do
-
 ## Phase 0: Environment and project skeleton
 - [x] Create repository and folder structure
-- [ ] README, ROADMAP, requirements
+- [x] README, ROADMAP, requirements
 
 ## Phase 1: Exploratory data analysis
-- [ ] Inspect dataset folder structure and file formats
-- [ ] Analyze disaster types and damage class distribution
-- [ ] Visualize image pairs and label masks
+- [x] Inspect dataset folder structure and file formats
+- [x] Analyze disaster types and damage class distribution
+- [x] Visualize image pairs and label masks
 
 ## Phase 2: Data preprocessing
 - [ ] Parse labels into segmentation masks
