@@ -6,3 +6,5 @@ matplotlib
 opencv-python
 Pillow
 tqdm
+scikit-learn
+shapely
