@@ -1,0 +1,16 @@
+{
+  "class_names": [
+    "background",
+    "no-damage",
+    "minor-damage",
+    "major-damage",
+    "destroyed"
+  ],
+  "weights": [
+    1.0,
+    4.653565302701434,
+    13.098615562101877,
+    11.815184765484698,
+    17.289407380323034
+  ]
+}
