@@ -10,10 +10,10 @@
 - [x] Visualize image pairs and label masks
 
 ## Phase 2: Data preprocessing
-- [ ] Parse labels into segmentation masks
-- [ ] Train / validation split
-- [ ] PyTorch Dataset and DataLoader
-- [ ] Class weighting for imbalanced damage classes
+- [x] Parse labels into segmentation masks
+- [x] Train / validation split
+- [x] PyTorch Dataset and DataLoader
+- [x] Class weighting for imbalanced damage classes
 
 ## Phase 3: Baseline model
 - [ ] Siamese U-Net (shared pretrained encoder)
