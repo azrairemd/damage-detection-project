@@ -16,7 +16,11 @@
 - [x] Class weighting for imbalanced damage classes
 
 ## Phase 3: Baseline model
-- [ ] Siamese U-Net (shared pretrained encoder)
+- [x] Encoder: pretrained ResNet34 with skip outputs
+- [x] U-Net decoder blocks
+- [x] Siamese U-Net (shared encoder, concatenated features) in src/model.py
+- [x] Shape and parameter count check with dummy input
+- [x] Forward pass on a real batch
 
 ## Phase 4: Loss and training loop
 - [ ] Combined loss (weighted cross-entropy + Dice)
