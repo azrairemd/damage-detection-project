@@ -23,11 +23,12 @@
 - [x] Forward pass on a real batch
 
 ## Phase 4: Loss and training loop
-- [ ] Combined loss (weighted cross-entropy + Dice)
-- [ ] Training and validation loops
-- [ ] Overfitting test on a small subset
+- [x] Combined loss (weighted cross-entropy + Dice)
+- [x] Training and validation loops
+- [x] Overfitting test on a small subset
 
 ## Phase 5: Full training and evaluation
+- [ ] Data augmentation for training only (same transform on pre, post and mask)
 - [ ] Train on the full xBD dataset
 - [ ] Evaluate with per-class F1 and overall score
 
